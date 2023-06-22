@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar Sahu</h1>
 <h3 align="center">"Passionate Developer: Crafting Innovative Solutions from India"</h3>
-<img align="right" alt="coding" width="150" height="150" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumarsahu1&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumarsahu1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkumarsahu1" alt="harshkumarsahu1" /></a> </p>
-
+<img align="right" alt="coding" width="300" height="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 - 🔭 I’m currently working on ReactJs project **अभिव्यक्ति**
 
 - 👨‍💻 All of my projects are available at [https://harshkportfolio.netlify.app/#](https://harshkportfolio.netlify.app/#)
